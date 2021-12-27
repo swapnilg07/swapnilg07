@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swapnilg07
 - 👀 I’m interested in Data and Designing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working and learning Python
 - 📫 How to reach me https://www.linkedin.com/in/swapnilg07/
 
 <!---
