@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swapnilg07
-- 👀 I’m interested in Data and Designing
-- 🌱 I’m currently working and learning Angular, Python
+- 👀 I’m interested in Development and Designing
+- 🌱 I’m currently working and learning React, Python
 - 📫 How to reach me https://www.linkedin.com/in/swapnilg07/
 
 <!---
