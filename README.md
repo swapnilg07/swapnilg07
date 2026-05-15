@@ -30,6 +30,9 @@ I build scalable web applications using React, Django, Python, and modern fronte
 
 ## 📌 Featured Projects
 
+### Invoice GST Pro 
+Free GST invoice generator for Indian businesses · CGST · SGST · IGST · Invoice Download
+
 ### Ecommerce Platform
 Full-stack ecommerce application with authentication, cart, payments, and admin dashboard.
 
