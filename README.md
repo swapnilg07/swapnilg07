@@ -1,9 +1,50 @@
-- 👋 Hi, I’m @swapnilg07
-- 👀 I’m interested in Development and Designing
-- 🌱 I’m currently working and learning React, Python
-- 📫 How to reach me https://www.linkedin.com/in/swapnilg07/
+# Hi, I'm Swapnil Gupta 👋
 
-<!---
-swapnilg07/swapnilg07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Full Stack Developer
+
+I build scalable web applications using React, Django, Python, and modern frontend technologies.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend
+- Python
+- Django
+- REST APIs
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 📌 Featured Projects
+
+### Ecommerce Platform
+Full-stack ecommerce application with authentication, cart, payments, and admin dashboard.
+
+### AI Chat Application
+Real-time AI-powered chatbot built using React and Django APIs.
+
+### Portfolio Website
+Personal developer portfolio showcasing projects and technical blogs.
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/swapnilg07
+- Portfolio: http://swapnilg07.github.io/
+- Email: sgmcanitt@gmail.com
+
+---
